@@ -35,6 +35,8 @@ This degree is an MS in Software Development and a certificate in Software Engin
 1. Software Quality, Testing, and Security Management 
 
 ### single elective
- 1. TBD, there are options. 
+I'm debating between these two (I'm open to suggestions)
+ - Agile Software Development
+ - Secure Software Development
 
 Originally posted on [dev.to](https://dev.to/vickilanger/what-s-in-a-software-dev-degree-491o)
